@@ -1,0 +1,162 @@
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.exe
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.deps.json
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.runtimeconfig.json
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.runtimeconfig.dev.json
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.pdb
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\DAL.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\DTO.dll
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\DTO.pdb
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.csprojAssemblyReference.cache
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.AssemblyInfoInputs.cache
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.AssemblyInfo.cs
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.csproj.CoreCompileInputs.cache
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\staticwebassets\SwaggerAPI.StaticWebAssets.Manifest.cache
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\staticwebassets\SwaggerAPI.StaticWebAssets.xml
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\SwaggerAPI.styles.css
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.RazorTargetAssemblyInfo.cache
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.csproj.CopyComplete
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.dll
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.pdb
+E:\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.genruntimeconfig.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\appsettings.json
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.exe
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.deps.json
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.runtimeconfig.json
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.runtimeconfig.dev.json
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\DAL.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\DTO.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\bin\Debug\netcoreapp3.1\DTO.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.csprojAssemblyReference.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.AssemblyInfoInputs.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.AssemblyInfo.cs
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.csproj.CoreCompileInputs.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.MvcApplicationPartsAssemblyInfo.cs
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.MvcApplicationPartsAssemblyInfo.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.RazorTargetAssemblyInfo.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.csproj.CopyComplete
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\staticwebassets\SwaggerAPI.StaticWebAssets.Manifest.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\staticwebassets\SwaggerAPI.StaticWebAssets.xml
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.genruntimeconfig.cache

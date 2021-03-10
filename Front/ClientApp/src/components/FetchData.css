@@ -1,0 +1,121 @@
+﻿body {
+    resize: horizontal;
+    overflow : auto;
+}
+
+.container {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+    max-width: none;
+}
+
+
+.corps {
+    display: flex;
+    flex-direction : row;
+}
+
+.card {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content : space-between;
+    align-items: center;
+    
+}
+
+.card img{
+    border-radius : 50%;
+    width : 100px;
+    width : 150px;
+    height : 150px;
+}
+
+.list {
+    border: solid black 1px;
+    width: 48%;
+    height: 90vh;
+    overflow-y: scroll;
+    border-radius: 5%;
+}
+
+#rate-button{
+    display : flex;
+    flex-direction : row;
+}
+
+.btnAvis{
+    margin-left : 10px;
+}
+
+.locationDetails {
+    border: solid black 1px;
+    padding: 20px;
+    width: 52%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.locationDetails img {
+    align-self : center;
+    max-width : 400px;
+    max-height : 380px;
+    margin : 10px;
+
+    border-radius : 5%;
+}
+
+.locationDetails h1 {
+    align-self: center;
+}
+
+.nameTemp{
+    display : flex;
+    flex-direction : row;
+    align-items : center;
+    justify-items:flex-end;
+    align-self : center;
+}
+
+
+.locationName{
+    margin-right : 10px;
+}
+
+
+.temp{
+    margin-left : 10px;
+}
+
+.inputOp {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top : 10px;
+}
+
+.inputOp input {
+    width: 80%;
+}
+
+.Opinions {
+    overflow-y: scroll;
+    height : 50%;
+}
+
+.opinion {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+#opAvis {
+    width: 80%;
+    word-wrap: break-word;
+}

@@ -1,0 +1,30 @@
+E:\triplite\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+E:\triplite\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.json
+E:\triplite\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.dev.json
+E:\triplite\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+E:\triplite\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+E:\triplite\DTO\bin\Debug\netcoreapp3.1\DAL.dll
+E:\triplite\DTO\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+E:\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+E:\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+E:\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+E:\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+E:\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+E:\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+E:\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.genruntimeconfig.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.json
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.dev.json
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\bin\Debug\netcoreapp3.1\DAL.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\bin\Debug\netcoreapp3.1\DAL.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+Y:\ISIMA 2020-2021\Services web\Projet\triplite\DTO\obj\Debug\netcoreapp3.1\DTO.genruntimeconfig.cache
